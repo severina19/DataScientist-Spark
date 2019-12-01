@@ -16,6 +16,7 @@ This project is developed in Python 3.7, and the libraries needed include:
 This Repository contains following files:
 
 ├── README.md: Description of project 
+
 └── Sparkify.ipynb: jupyter notebook containing code of the project and futher description.
 
 
